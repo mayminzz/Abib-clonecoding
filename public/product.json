@@ -1,0 +1,206 @@
+{
+  "promotion": [
+    {
+      "img": "./img/promotion_product1.jpeg",
+      "alt": "promotion_product1",
+      "name": "선크림 1+1",
+      "name_desc": "",
+      "volume": "",
+      "price": "￦50,000",
+      "discount": "￦27,500"
+    },
+    {
+      "img": "./img/promotion_product2.jpeg",
+      "alt": "promotion_product2",
+      "name": "선스틱 1+1",
+      "name_desc": "",
+      "volume": "",
+      "price": "￦56,000",
+      "discount": "￦30,800"
+    },
+    {
+      "img": "./img/promotion_product3.jpeg",
+      "alt": "promotion_product3",
+      "name": "약산성 시트 마스크",
+      "name_desc": "어성초 핏",
+      "volume": "30ml / lea",
+      "price": "￦4,000",
+      "discount": "￦2,400"
+    },
+    {
+      "img": "./img/promotion_product4.jpeg",
+      "alt": "promotion_product4",
+      "name": "껌딱지 시트 마스크",
+      "name_desc": "어성초 스티커",
+      "volume": "27ml / 1ea",
+      "price": "￦4,000",
+      "discount": "￦2,400"
+    },
+    {
+      "img": "./img/promotion_product5.jpeg",
+      "alt": "promotion_product5",
+      "name": "콜라겐 겔 마스크",
+      "name_desc": "부활초 젤리",
+      "volume": "25g / 1ea",
+      "price": "￦5,000",
+      "discount": "￦3,500"
+    },
+    {
+      "img": "./img/promotion_product6.jpeg",
+      "alt": "promotion_product6",
+      "name": "콜라겐 겔 마스크",
+      "name_desc": "어성초 젤리",
+      "volume": "35g / 1ea",
+      "price": "￦5,000",
+      "discount": "￦3,500"
+    },
+    {
+      "img": "./img/promotion_product7.jpeg",
+      "alt": "promotion_product7",
+      "name": "수분초 히알루론 선스크린",
+      "name_desc": "프로텍션 튜브 SPF50+ PA++++",
+      "volume": "50ml / 1ea",
+      "price": "￦25,000",
+      "discount": "￦15,000"
+    },
+    {
+      "img": "./img/promotion_product8.jpeg",
+      "alt": "promotion_product8",
+      "name": "퀵 선스틱",
+      "name_desc": "프로텍션 바 SPF50+ PA++++",
+      "volume": "22g / 1ea",
+      "price": "￦28,000",
+      "discount": "￦16,800"
+    }
+  ],
+  "best": [
+    {
+      "img": "./img/best_product1.jpeg",
+      "alt": "best_product1",
+      "name": "껌딱지 시트 마스크",
+      "name_desc": "어성초 스티커",
+      "volume": "27ml / 1ea",
+      "price": "￦4,000",
+      "discount": "￦2,400"
+    },
+    {
+      "img": "./img/best_product2.jpeg",
+      "alt": "best_product2",
+      "name": "퀸 선스틱",
+      "name_desc": "프로텍션 바 SPF50+ PA++++",
+      "volume": "22g",
+      "price": "￦28,000",
+      "discount": "￦16,800"
+    },
+    {
+      "img": "./img/best_product3.jpeg",
+      "alt": "best_product3",
+      "name": "수분후 히알루론 선스크린",
+      "name_desc": "프로텍션 튜브 SPF50+ PA++++",
+      "volume": "50ml",
+      "price": "￦25,000",
+      "discount": "￦15,000"
+    },
+    {
+      "img": "./img/best_product4.jpeg",
+      "alt": "best_product4",
+      "name": "어성초 스팟 패드",
+      "name_desc": "카밍 터치",
+      "volume": "150ml / 80pads",
+      "price": "￦24,000",
+      "discount": ""
+    },
+    {
+      "img": "./img/best_product5.jpeg",
+      "alt": "best_product5",
+      "name": "에어리 선스틱",
+      "name_desc": "스무딩 바 SPF50+ PA++++",
+      "volume": "23g",
+      "price": "￦28,000",
+      "discount": "￦16,800"
+    },
+    {
+      "img": "./img/best_product6.jpeg",
+      "alt": "best_product6",
+      "name": "수분초 히알루론 패드",
+      "name_desc": "하이드레이팅 터치",
+      "volume": "165ml / 75pads",
+      "price": "SOLD OUT",
+      "discount": ""
+    },
+    {
+      "img": "./img/best_product7.jpeg",
+      "alt": "best_product7",
+      "name": "딥 클림 폼 클렌저",
+      "name_desc": "수분초 히알루론 폼",
+      "volume": "150ml",
+      "price": "SOLD OUT",
+      "discount": ""
+    }
+  ],
+  "recommend": [
+    {
+      "img": "./img/recommend_product1.jpeg",
+      "alt": "recommend_product1",
+      "name": "그린 LHA 모공 패드",
+      "name_desc": "클리어 터치",
+      "volume": "210ml / 60pads",
+      "price": "￦24,000",
+      "discount": ""
+    },
+    {
+      "img": "./img/recommend_product2.jpeg",
+      "alt": "recommend_product2",
+      "name": "어성초 스팟 패드",
+      "name_desc": "카밍 터치",
+      "volume": "150ml / 80pads",
+      "price": "￦24,000",
+      "discount": ""
+    },
+    {
+      "img": "./img/recommend_product3.jpeg",
+      "alt": "recommend_product3",
+      "name": "부활초 크림",
+      "name_desc": "뉴트리션 튜브",
+      "volume": "75ml",
+      "price": "SOLD OUT",
+      "discount": ""
+    },
+    {
+      "img": "./img/recommend_product4.jpeg",
+      "alt": "recommend_product4",
+      "name": "콜라겐 아이크림",
+      "name_desc": "부활초 튜브",
+      "volume": "30ml",
+      "price": "￦26,000",
+      "discount": ""
+    },
+    {
+      "img": "./img/recommend_product5.jpeg",
+      "alt": "recommend_product5",
+      "name": "퀵 선스틱",
+      "name_desc": "프로텍션 바 SPF50+ PA++++",
+      "volume": "22g",
+      "price": "￦28,000",
+      "discount": "￦16,800"
+    },
+    {
+      "img": "./img/recommend_product6.jpeg",
+      "alt": "recommend_product6",
+      "name": "수분후 히알루론 선스크린",
+      "name_desc": "프로텍션 튜브 SPF50+ PA++++",
+      "volume": "50mls",
+      "price": "￦25,000",
+      "discount": "￦15,000"
+    },
+    {
+      "img": "./img/recommend_product7.jpeg",
+      "alt": "recommend_product7",
+      "name": "[신규회원 한정] 그린 LHA 모공 패드",
+      "name_desc": "클리어 터치",
+      "volume": "신규 회원가입 시 '구매버튼'과 할인가'가 활성화됩니다.",
+      "price": "￦24,000",
+      "discount": ""
+    }
+  ]
+}
