@@ -19,13 +19,17 @@ const Imgscale = (num) => {
 };
 
 //header fixed
+const banner1 = document.querySelector("#main_banner1");
+
 window.addEventListener("scroll", () => {
   scrollNum = window.scrollY;
   Imgscale(scrollNum);
   if (scrollNum > 30) {
     header.classList.add("fixed");
+    banner1.style.paddingTop = "75px"
   } else {
     header.classList.remove("fixed");
+        banner1.style.paddingTop = "0px"
   }
 });
 
